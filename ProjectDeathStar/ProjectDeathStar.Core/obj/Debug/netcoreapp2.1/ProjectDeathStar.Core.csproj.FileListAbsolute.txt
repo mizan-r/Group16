@@ -1,0 +1,9 @@
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\bin\Debug\netcoreapp2.1\ProjectDeathStar.Core.deps.json
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\bin\Debug\netcoreapp2.1\ProjectDeathStar.Core.dll
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\bin\Debug\netcoreapp2.1\ProjectDeathStar.Core.pdb
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.csprojAssemblyReference.cache
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.csproj.CoreCompileInputs.cache
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.AssemblyInfoInputs.cache
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.AssemblyInfo.cs
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.dll
+H:\DEVSKILL\ProjectDeathStar\ProjectDeathStar.Core\obj\Debug\netcoreapp2.1\ProjectDeathStar.Core.pdb
